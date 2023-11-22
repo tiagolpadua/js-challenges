@@ -1,3 +1,5 @@
+// Indique os 3 meios corretos de se criar a função "incremento":
+
 const add = (x,y) => x + y;
 
 const addf = (x) => (y) => x + y;

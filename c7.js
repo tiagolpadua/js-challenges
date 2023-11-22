@@ -1,3 +1,5 @@
+// Escreva uma função que recebe uma função e um argumento, e retorna uma função que pode receber um segundo argumento:
+
 const add = (x,y) => x + y;
 
 const curry = (fn, x) => (y) => fn(x,y);

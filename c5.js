@@ -1,3 +1,5 @@
+// Escreva uma função que soma com dois acionamentos:
+
 const addf = (x) => (y) => x + y;
 
 const f1 = addf(3);
