@@ -12,4 +12,4 @@ console.log('typeof r', typeof r);
 
 console.log('r', r);
 
-console.log('addf(5)(7)', addf(5)(7))
+console.log('addf(5)(7)', addf(5)(7));
